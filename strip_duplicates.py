@@ -9,6 +9,3 @@ for name in startups:
         seen.add(name)
 
 print ''.join(map(str, unique))
-
-
-
